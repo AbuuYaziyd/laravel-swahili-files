@@ -58,7 +58,7 @@ return [
         'string' => ':attribute lazima izidi herufi :value.',
     ],
     'gte' => [
-        'array' => ':attribute must have :value items or more.',
+        'array' => ':attribute lazima iwe na vitu zaidi ya :value.',
         'file' => ':attribute must be greater than or equal to :value kilobytes.',
         'numeric' => ':attribute must be greater than or equal to :value.',
         'string' => ':attribute must be greater than or equal to :value characters.',
