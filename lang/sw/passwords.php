@@ -14,9 +14,9 @@ return [
     */
 
     'reset' => 'Nenosiri lako limewekwa upya!',
-    'sent' => 'We have emailed your password reset link!',
-    'throttled' => 'Please wait before retrying.',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that email address.",
+    'sent' => 'Tumekutumia barua pepe kiungo chako cha kuweka upya nenosiri!',
+    'throttled' => 'Tafadhali subiri kabla ya kujaribu tena.',
+    'token' => 'Ishara hii ya kuweka upya nenosiri ni batili.',
+    'user' => "Hatuwezi kupata mtumiaji aliye na anwani hiyo ya barua pepe.",
 
 ];
