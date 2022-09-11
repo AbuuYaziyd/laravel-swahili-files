@@ -14,7 +14,7 @@ return [
     */
 
     'failed' => 'Hati hizi hazilingani na rekodi zetu.',
-    'password' => 'Nywila ilotolewa si sahihi.',
+    'password' => 'Nenosiri ilotolewa si sahihi.',
     'throttle' => 'Majaribio mengi sana ya kuingia. Tafadhali jaribu tena baada ya :seconds.',
 
 ];
