@@ -13,8 +13,8 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'Hati hizi hazilingani na rekodi zetu.',
+    'password' => 'Nywila ilotolewa si sahihi.',
+    'throttle' => 'Majaribio mengi sana ya kuingia. Tafadhali jaribu tena baada ya :seconds.',
 
 ];
